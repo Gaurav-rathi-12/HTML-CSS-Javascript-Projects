@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    border: 1px solid black ;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+}
+
+button:hover{
+    color: azure;
+    background-color: grey;
+}
+
+.counter{
+    font-size: 80px;
+    margin: 0;
+}
